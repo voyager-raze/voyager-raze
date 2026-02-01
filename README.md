@@ -26,21 +26,21 @@
 ---
 --->
 ## 🧪 Projects
-| Project | Description | Tech |
-|-------|------------|------|
-| 🔍 Baccalaureate II (BaccII) Calculator | Find your BaccII grade | ReactJs |
-| 🧹 Video Speed Controller | Adjust your video speed on various websites | JS, Chrome Extension |
+| Project | Description | Tech | Link |
+|-------|------------|------|-----|
+| 🔍 Baccalaureate II (BaccII) Calculator | Find your BaccII grade | ReactJs | [Link] (https://bacc-ii-calculator.vercel.app/) |
+| 🧹 Video Speed Controller | Adjust your video speed on various websites | JS, Chrome Extension | [Repo](https://github.com/voyager-raze/videospeedcontroller) |
 <!--| 🌐 Portfolio Site | Personal website | HTML, CSS, JS | -->
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=voyager-raze&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=voyager-raze&theme=tokyonight" />
 </p>
 
 ---

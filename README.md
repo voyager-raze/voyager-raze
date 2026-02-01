@@ -38,7 +38,7 @@
 <p align="center">
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=voyager-raze&show_icons=true&theme=tokyonight)
 </p>
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=voyager-raze&show_icons=true&theme=tokyonight)
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=voyager-raze&theme=tokyonight" />
 </p>

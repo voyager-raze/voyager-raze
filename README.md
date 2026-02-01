@@ -1,16 +1,69 @@
-## Hi there 👋
+<h1 align="center">Thanks for visitiong my github account</h1>
+<h2 align="center">But let me ask you a question, **What is the meaning of life?** </h2>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+---
+
+<!-- <h3 align="center">_Builder_ Sleeper • _Learner_ Gammer • Tech Explorer</h3> -->
+
+## 🚀 About Me
+- 💤 I like to sleep
+- ⚽🏐🏀🏸💪🏃‍♂️ I am very active person, I play 8 times/week of various sports
+- 
+---
 
 <!--
-**voyager-raze/voyager-raze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tech Stack
+**Languages & Tools I Use**
 
-Here are some ideas to get you started:
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,git,github,linux" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+--->
+## 🧪 Projects
+| Project | Description | Tech |
+|-------|------------|------|
+| 🔍 Baccalaureate II (BaccII) Calculator | Find your BaccII grade | ReactJs |
+| 🧹 Video Speed Controller | Adjust your video speed on various websites | JS, Chrome Extension |
+<!--| 🌐 Portfolio Site | Personal website | HTML, CSS, JS | -->
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🧠 What I’m Currently Learning
+- Machine Learning
+- Web Dev
+- DSA using C++
+
+---
+
+## 🤝 Connect With Me
+<p>
+  <a href="https://github.com/voyager-raze">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://in.linkedin.com/in/rosa-touch-b99590394">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+---
+
+⭐ *If you like work --> Star it.
+    If you love it --> Folk it.
+    If you respect it --> Contribute.*

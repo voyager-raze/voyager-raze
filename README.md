@@ -1,5 +1,5 @@
 <h1 align="center">Thanks for visitiong my github account</h1>
-<h2 align="center">But let me ask you a question, **What is the meaning of life?** </h2>
+<h2 align="center">But let me ask you a question</h2> **What is the meaning of life?** 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=voyager-raze&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />

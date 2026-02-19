@@ -34,6 +34,7 @@
 | 🍪 Cookie Exporter | Export your browser cookies | JS, Browser Extension | Under construction |
 | 🤖 Youtube MP3 Telegram Bot Downloader | Download Single, Multiple links, and playlist video from youtube then convert and upload it as MP3  | Python, Telegram Bot | Coming Soon |
 | 🖇️ Bulk URL Opener | Open multiple like with one click  | JS, Chrome Extension | Testing |
+| 📚 Udemy Darkmode Extension | Turn udemy into dark mode theme  | JS, Chrome Extension | Testing |
 
 <!--| 🌐 Portfolio Site | Personal website | HTML, CSS, JS | -->
 

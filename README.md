@@ -87,9 +87,6 @@
 
 ## 🤝 Connect With Me
 <p>
-  <a href="https://github.com/voyager-raze">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
   <a href="https://in.linkedin.com/in/rosa-touch-b99590394">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>

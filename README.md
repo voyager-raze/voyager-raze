@@ -29,8 +29,10 @@
 | Project | Description | Tech | Link |
 |-------|------------|------|-----|
 | 🔍 Baccalaureate II (BaccII) Calculator | Find your BaccII grade | ReactJs | [View Project](https://bacc-ii-calculator.vercel.app/) |
+<!---
 | 🧹 Video Speed Controller | Adjust your video speed on various websites | JS, Chrome Extension | [Repo](https://github.com/voyager-raze/videospeedcontroller) |
 | ▶️ Youtube Bulk Downloader | Download multiple video instantly | Python | [Repo](https://github.com/voyager-raze/youtube-bulk-video-downloader) |
+--->
 | 🍪 Cookie Exporter | Export your browser cookies | JS, Browser Extension | Under construction |
 | 🤖 Youtube MP3 Telegram Bot Downloader | Download Single, Multiple links, and playlist video from youtube then convert and upload it as MP3  | Python, Telegram Bot | Coming Soon |
 | 🖇️ Bulk URL Opener | Open multiple like with one click  | JS, Chrome Extension | Testing |

@@ -37,6 +37,7 @@
 | 🎓 ICCR Navigator | A complete guide to help student findout more about ICCR Scholarship | React Js, Jira (for managing) | [visit](https://iccr.khexam.com/)
 | 📖 Bacc II Resources | A platform that provide everything you need to know about Bacc II Exam | React Js, Supabase, Jira (for managing), Full CMS | [visit](https://khexam.com/) |
 | 📖 Ngerk | An article platform that share human written Science & Technology document | Full CMS | [visit](https://ngerk.com/) |
+| 📊 Ngerk Visualizer | Visualizer tools for interactive embedding | Full CMS | [visit](https://visualizer.ngerk.com/) |
 
 <!--| 🌐 Portfolio Site | Personal website | HTML, CSS, JS | -->
 
